@@ -1,0 +1,13 @@
+# Additional ignores
+.DS_Store
+# Config Files
+*.ini
+
+# RubyMine Related Files
+.idea/
+
+# VSCode Related Files
+.vscode/
+
+# Ruby Testing Files
+test.rb
